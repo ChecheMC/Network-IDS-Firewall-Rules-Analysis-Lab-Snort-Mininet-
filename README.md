@@ -8,5 +8,5 @@ Cybersecurity lab using Snort and Mininet to detect malicious traffic and analyz
 - Mininet
 - Linux / Ubuntu
 - tcpdump
-- VirtualBox (modo puente)
+- VirtualBox (mode Brigde)
 - Malware (W32.Nimda)
