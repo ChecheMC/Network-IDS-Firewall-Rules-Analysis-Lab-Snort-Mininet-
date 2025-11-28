@@ -3,4 +3,10 @@ Laboratorio de ciberseguridad con Snort y Mininet para detectar tráfico malicio
 
 Cybersecurity lab using Snort and Mininet to detect malicious traffic and analyze IDS alerts in real time. Includes Nimda malware download, packet capture, and firewall rule monitoring in a simulated network environment.
 
-
+## 🔧 Tecnologías usadas / Technologies used
+- Snort IDS
+- Mininet
+- Linux / Ubuntu
+- tcpdump
+- VirtualBox (modo puente)
+- Malware (W32.Nimda)
